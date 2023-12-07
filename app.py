@@ -12,7 +12,7 @@ from langchain.llms import OpenAI
 import os
 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 
 page_bg_img = f"""
 <style>
