@@ -1,0 +1,11 @@
+streamlit
+branca==0.3.1
+numpy==1.19.5
+pandas==1.1.5
+langchain
+langchain.llms
+os
+folium
+langchain_experimental.agents.agent_toolkits
+langchain.agents.agent_types
+langchain.document_loaders.csv_loader
