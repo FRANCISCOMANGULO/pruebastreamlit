@@ -9,3 +9,4 @@ langchain-experimental
 langdetect
 langsmith
 openai
+tabulate
