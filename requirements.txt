@@ -10,3 +10,4 @@ langdetect
 langsmith
 openai
 tabulate
+gtts
